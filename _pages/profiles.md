@@ -21,6 +21,6 @@ profiles:
     content: about_fauzi.md
     image_circular: false # crops the image to make it circular
     more_info: >
-       <p>Cogito, ergo sum.</p>
-       <p>René Descartes.</p>
+      <p>Cogito, ergo sum.</p>
+      <p>René Descartes.</p>
 ---
