@@ -1,36 +1,63 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Fauzi Sholichin",
+    "label": "Software Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "fauzisholichin@gmail.com",
+    "phone": "(49) XX-XXXX",
+    "url": "https://fauzisho.github.io",
+    "summary": "A Indonesia-born empirical Software Engineer, Share the Passion with Others: Spread the Joy and Inspire!",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Feldkirchener Str",
+      "postalCode": "85055",
+      "city": "Ingolstadt",
+      "countryCode": "DE",
+      "region": "German"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Instagram",
+        "username": "Fauzisho",
+        "url": "https://www.instagram.com/fauzisho/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Red Circle Ai",
+      "position": "Mobile Application Developer",
+      "url": "https://play.google.com/store/apps/dev?id=6243700795415744359&hl=en&gl=US",
+      "startDate": "2021-04",
+      "endDate": "2024-01",
+      "summary": "",
+      "highlights": ["Android SDK","IOS","Swift","Kotlin"]
+    },
+    {
+      "name": "Technische Universität Clausthal",
+      "position": "Research Assistant",
+      "url": "https://www.isse.tu-clausthal.de/",
+      "startDate": "2022-06",
+      "endDate": "2022-12",
+      "summary": "",
+      "highlights": ["Python","C++","Automata","Emergent Behavior"]
+    },
+    {
+      "name": "Universiti Technology Malaysia",
+      "position": "Graduate Research Assistant (Software Engineer)",
+      "url": "https://www.utm.my/",
+      "startDate": "2019-05",
+      "endDate": "2021-05",
+      "summary": "",
+      "highlights": ["Java","Python","AWS","Mobile Apps"]
+    },
+    {
+      "name": "Qiscus",
+      "position": "Mobile Application Developer",
+      "url": "https://www.qiscus.com/en",
+      "startDate": "2019-02",
+      "endDate": "2017-03",
+      "summary": "",
+      "highlights": ["SDK","Android","iOS","MQTT"]
     }
   ],
   "volunteer": [
