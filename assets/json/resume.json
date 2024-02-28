@@ -30,7 +30,7 @@
       "startDate": "2021-04",
       "endDate": "2024-01",
       "summary": "",
-      "highlights": ["Android SDK","IOS","Swift","Kotlin"]
+      "highlights": ["Android SDK", "IOS", "Swift", "Kotlin"]
     },
     {
       "name": "Technische Universität Clausthal",
@@ -39,7 +39,7 @@
       "startDate": "2022-06",
       "endDate": "2022-12",
       "summary": "",
-      "highlights": ["Python","C++","Automata","Emergent Behavior"]
+      "highlights": ["Python", "C++", "Automata", "Emergent Behavior"]
     },
     {
       "name": "Universiti Technology Malaysia",
@@ -48,7 +48,7 @@
       "startDate": "2019-05",
       "endDate": "2021-05",
       "summary": "",
-      "highlights": ["Java","Python","AWS","Mobile Apps"]
+      "highlights": ["Java", "Python", "AWS", "Mobile Apps"]
     },
     {
       "name": "Qiscus",
@@ -57,7 +57,7 @@
       "startDate": "2019-02",
       "endDate": "2017-03",
       "summary": "",
-      "highlights": ["SDK","Android","iOS","MQTT"]
+      "highlights": ["SDK", "Android", "iOS", "MQTT"]
     }
   ],
   "volunteer": [
