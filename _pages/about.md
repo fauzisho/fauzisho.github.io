@@ -17,6 +17,7 @@ latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
 As a mobile application developer at Red Circle AI, I applied my mobile engineering skills and knowledge to create innovative and user-friendly apps for various domains and platforms. I worked with a diverse and collaborative team of engineers, designers, and product managers to deliver high-quality and scalable solutions that met the client's needs and expectations.
 
 I have a Master of Philosophy in Computer Science from Universiti Teknologi Malaysia, where I conducted research on mobile development and software quality. I have multiple certifications in cloud computing, data engineering, and machine learning from Qwiklabs and Stanford University, and a Google Play Academy certificate for store listing optimization.
