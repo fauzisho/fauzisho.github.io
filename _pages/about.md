@@ -13,11 +13,9 @@ profile:
     <p>René Descartes.</p>
 
 news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
+latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-As a mobile application developer, I applied my mobile engineering skills and knowledge to create innovative and user-friendly apps for various domains and platforms. I worked with a diverse and collaborative team of engineers, designers, and product managers to deliver high-quality and scalable solutions that met the client's needs and expectations.
-
-My passion is to use AI and mobile technologies to create impactful and meaningful solutions that can improve people's lives and solve real-world problems. I am always eager to learn new skills and tools, and to share my knowledge and experience with others through my GitHub, Medium, and ResearchGate profiles. I am looking for new opportunities and challenges that can help me grow as a professional and as a person.
+As a passionate software engineer and writer, I create innovative applications by collaborating with talented teams across various domains. I leverage cutting-edge technologies, including AI, to develop impactful solutions that improve lives and address real-world challenges. Continuously learning and sharing knowledge through platforms like GitHub and Medium, I strive to craft engaging content that informs, entertains, and sparks thought. Seeking opportunities for growth, I aim to push boundaries, explore new perspectives, and make a lasting impact through my work and writing, embracing the lifelong journey of self-improvement.
